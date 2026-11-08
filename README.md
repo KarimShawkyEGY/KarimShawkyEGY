@@ -15,49 +15,44 @@
 
 ## 🚀 About Me
 
-- 
-- 
-- 
-- 
+- Passionate about Cybersecurity, particularly Blue Team operations, Threat Detection, and Incident Response.
+- Hands-on experience with SIEM, Security Monitoring, Detection Engineering, and Threat Hunting.
+- Building practical projects involving Python, Networking, Security Automation, and DevSecOps.
+- Constantly learning, experimenting, and developing skills to tackle real-world security challenges.
 
 ---
 
 ## 🧠 Featured Projects
 
-### 💳 RupeeWave — Banking Backend
+### 🛡️ Purple Team Operations — Threat Detection & Incident Response
 
-<em>✏️ Say this in your own words.</em>
+<em>An end-to-end Purple Team project focused on investigating simulated attacks, analyzing security telemetry, and developing effective threat detection capabilities.</em>
 
 #### Highlights
 
-- <em>✏️ Say this in your own words.</em>
-- <em>✏️ Say this in your own words.</em>
-- <em>✏️ Say this in your own words.</em>
-- <em>✏️ Say this in your own words.</em>
-- PostgreSQL + Supabase migrations
-- <em>✏️ Say this in your own words.</em>
+- Investigated simulated cyberattacks through SIEM telemetry analysis and Sysmon event monitoring.
+- Developed custom Splunk SPL detection queries to identify suspicious activities and attacker behaviors.
+- Mapped detected techniques to the MITRE ATT&CK framework across multiple stages of the attack lifecycle.
+- Performed IOC identification, event correlation, and attack timeline reconstruction.
+- Documented investigation findings, detection logic, and incident response recommendations.
 
-🔗 **Live:** https://rupeewave.vercel.app
-
-📂 **Repository:** https://github.com/karimshawkyegy?tab=repositories
+📂 **Repository:** https://github.com/KarimShawkyEGY/project-purple-team
 
 ---
 
-### 🏍️ PillionPal — Ride-Sharing Backend
+### ⚙️ Detection-as-Code — Automated Security Detection Engineering
 
-<em>✏️ Say this in your own words.</em>
+<em>An end-to-end Detection Engineering project implementing Detection-as-Code principles, combining SIEM detection development, automated testing, and CI/CD workflows.</em>
 
 #### Highlights
 
-- <em>✏️ Say this in your own words.</em>
-- <em>✏️ Say this in your own words.</em>
-- <em>✏️ Say this in your own words.</em>
-- PostgreSQL-powered backend
-- Structured API architecture
+- Developed and maintained security detection rules using version-controlled Detection-as-Code practices.
+- Created custom SIEM detection logic using Splunk SPL and mapped detections to MITRE ATT&CK.
+- Validated detection effectiveness through adversary emulation and simulated attack scenarios.
+- Implemented a GitHub Actions CI/CD pipeline to automate detection-rule quality checks and validation.
+- Applied Git and GitHub version control to manage detection rules and streamline detection engineering workflows.
 
-🔗 **Live:** https://pillionpal-api.onrender.com
-
-📂 **Repository:** https://github.com/karimshawkyegy?tab=repositories
+📂 **Repository:** https://github.com/KarimShawkyEGY/project-detection-as-code
 
 ---
 
@@ -65,35 +60,26 @@
 
 ### Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,c" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </p>
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase" />
 </p>
 
 ### Tools & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode" />
 </p>
 
----
-
-## 📊 GitHub Statistics
+### Operating Systems
 
 <p align="center">
-  <img height="170" src="https://www.gitskins.com/api/section/stats?username=karimshawkyegy&theme=github-dark&mode=dark" />
-  <img height="170" src="https://www.gitskins.com/api/section/stack?username=karimshawkyegy&theme=github-dark&mode=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
 
 ---
@@ -105,7 +91,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:you@example.com">
+  <a href="karim1234@aucegypt.edu">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -113,8 +99,6 @@
 <p align="center">
   
 </p>
-
-<p align="center"><sub>KARIM ABDELBAKY · <a href="https://www.gitskins.com/readme-generator?template=community-sri-charan-machabhakthuni-eeip">Sri Charan Machabhakthuni</a> template by <a href="https://www.gitskins.com/creators/SreeCharan153">@SreeCharan153</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
 ## Experience
 
@@ -133,14 +117,10 @@
 - Participated in field service visits, assisting with preventive maintenance, equipment checks, and technical support activities.
 - Investigated equipment errors and operational anomalies, developing practical troubleshooting skills and understanding diagnostic system maintenance procedures.
 
-**Education**
+**Education &amp; Certifications**
 
 - Bachelor of Engineering, Major in Electronics and Communications — THE AMERICAN UNIVERSITY IN CAIRO (2022 – 2026)
+  
 - CompTIA Network+ Course — CompTIA (July 2026)
 - CompTIA Security+ — CompTIA (August 2026)
 - THM SAL1 — TryHackMe ((In Progress))
-
-**Projects**
-
-- **PURPLE TEAM ATTACK SIMULATION &amp; INCIDENT RESPONSE LAB** — SIEM Monitoring &amp; Threat Detection: Configured Splunk and Sysmon telemetry collection in a virtualized Windows environment, analyzing and correlating security events to identify malicious activity across initial access,
-- **DETECTION-AS-CODE &amp; AUTOMATED THREAT DETECTION PIPELINE** — Adversary Emulation &amp; SIEM Monitoring: Simulated 15 MITRE ATT&amp;CK techniques across 8 tactics using Atomic Red Team on Windows 11, monitoring and analyzing Sysmon telemetry in Splunk to assess detection coverage across ex

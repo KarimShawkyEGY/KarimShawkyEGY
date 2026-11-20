@@ -56,6 +56,22 @@
 
 ---
 
+### ☁️ Azure IaC Security — Cloud Security & DevSecOps Automation
+
+*An end-to-end Cloud Security project focused on securing Azure infrastructure through Terraform, automated Infrastructure-as-Code (IaC) scanning, vulnerability remediation, and CI/CD security integration.*
+
+#### Highlights
+
+- Developed intentionally vulnerable Azure infrastructure configurations using Terraform to simulate common cloud security misconfigurations.
+- Integrated Checkov and Trivy to automate IaC security assessments and identify infrastructure vulnerabilities against CIS Microsoft Azure Foundations Benchmark controls.
+- Identified and remediated security misconfigurations involving Azure Storage, Key Vault, network access controls, exposed ports, and TLS configurations.
+- Implemented a GitHub Actions CI/CD pipeline to automate security scanning on every push and pull request.
+- Integrated SARIF reporting and GitHub Code Scanning to centralize security findings and enforce infrastructure security validation.
+
+📂 **Repository:** [https://github.com/KarimShawkyEGY/azure-iac-security](https://github.com/KarimShawkyEGY/azure-iac-security)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -73,7 +89,7 @@
 ### Tools & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode,terraform" />
 </p>
 
 ### Operating Systems
